@@ -15,4 +15,6 @@ The afternoon Learnyounode workshop was very different but still fun.  Many of t
 
 I hope that we'll have more of these workshops in the future.  People seemed to get a lot out of them.  
 
-I'm hoping for the next workshop, we can address some of the perceived difficencies of the exercises.  Our biggest complaint was that the exercises didn't address the "why" of programming.  They were completely focused on the "how".  There was also and enormous jump in difficulty between the Javascripting exercises and the Learnyounode exercises.  The mentor group talked about building our own module to address these shortcomings.
+I'm hoping for the next workshop, we can address some of the perceived difficencies of the exercises.  Our biggest complaint was that the exercises didn't address the "why" of programming.  They were completely focused on the "how".  There was also an enormous jump in difficulty between the Javascripting exercises and the Learnyounode exercises.  The mentor group talked about building our own module to address these shortcomings.
+
+[Prior blog post](http://gwmccull.github.io/2015/05/23/nodeschool-workshop/)
