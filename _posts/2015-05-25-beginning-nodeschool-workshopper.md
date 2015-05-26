@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NodeSchool Learnyounode Exercises
+title: Proposed NodeSchool Workshopper
 ---
 
 # A New NodeSchool Workshopper
