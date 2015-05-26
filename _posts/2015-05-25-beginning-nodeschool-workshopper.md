@@ -80,4 +80,4 @@ After that, we can start writing exercises and the long-form story to go with ea
 
 ## Repo
 Here's the repo where this project will live:  
-[https://github.com/gwmccull/javascript-workshopper]
+https://github.com/gwmccull/javascript-workshopper
