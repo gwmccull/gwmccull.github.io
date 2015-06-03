@@ -32,6 +32,9 @@ series of refrains.
 The final tests involve getting multiple, sequential verses.  For that, I just created a recursive wrapper, `verses()`, 
 for the `verse()` function.
 
+Overall, I'm pretty happy with the results of it.  I passes all tests and looks easy to understand.  I think there could
+be an opportunity for additional optimization for the pattern in the refrains but that seems like overkill.
+
 
 {% highlight javascript %}
 class FoodChain {
