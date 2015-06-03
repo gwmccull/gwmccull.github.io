@@ -77,3 +77,7 @@ Additionally, the results of each pass or fail should also follow a regular form
 ## Next steps
 The next step will be to start outlining the story and matching up coding concepts with each point of the outline.
 After that, we can start writing exercises and the long-form story to go with each exercise.
+
+## Repo
+Here's the repo where this project will live:  
+https://github.com/gwmccull/javascript-workshopper
