@@ -20,7 +20,7 @@ to see all of the variations.  There were a few that "cheated" by simply coding 
 programs.  
 
 Here's my final code:
-{% highlight javascript %}
+```JavaScript
 var Bob = function() {};
 
 Bob.prototype.hey = function(input) {
@@ -50,7 +50,7 @@ Bob.prototype.hey = function(input) {
 };
 
 module.exports = Bob;
-{% endhighlight %}
+```
 
 Exercism seems like a fun way to practice some coding.  It also gives me an excuse to commit some stuff to Github, which
 I need to do more of if I'm ever going to qualify for a profile on [Stack Overflow Careers](https://careers.stackoverflow.com/) ;-)
