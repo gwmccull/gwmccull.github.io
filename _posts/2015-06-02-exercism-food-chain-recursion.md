@@ -36,7 +36,7 @@ Overall, I'm pretty happy with the results of it.  I passes all tests and looks 
 be an opportunity for additional optimization for the pattern in the refrains but that seems like overkill.
 
 
-{% highlight javascript %}
+```JavaScript
 class FoodChain {
     constructor() {}
 
@@ -135,4 +135,4 @@ class FoodChain {
 }
 
 module.exports = new FoodChain();
-{% endhighlight %}
+```
