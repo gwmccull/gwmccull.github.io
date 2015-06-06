@@ -7,17 +7,17 @@ I did the JavaScript Word Count exercise on [Exercism.io](http://exercism.io) to
 little exercise.  Basically, you accept a string and count the number of times each word appears.
 
 So calling it like this:
-```JavaScript
+{% highlight javascript %}
 words("test another test string");
-```
+{% endhighlight %}
 
 Would result in the following return:
-```JavaScript
+{% highlight javascript %}
 { "test": 2, "another": 1, "string": 1 }
-```
+{% endhighlight %}
 
 I ended up solving it this way:
-```JavaScript
+{% highlight javascript %}
 var words = function(input) {
     var subStrings = input.replace(/\s+/, ' ').split(' ');
     var total = Object.create(null);
@@ -34,7 +34,7 @@ var words = function(input) {
 };
 
 module.exports = words;
-```
+{% endhighlight %}
 
 Pretty straightforward, I thought.
 
