@@ -19,7 +19,7 @@ Part of it is style, of course, but the new features made a big difference.  Oth
 concatenation, for loops and if statements.  While mine does some of that, I feel like it ended up being cleaner.
 
 
-```JavaScript
+{% highlight javascript %}
 class BeerSong {
     constructor() { }
 
@@ -66,4 +66,4 @@ class BeerSong {
 }
 
 module.exports = new BeerSong();
-```
+{% endhighlight %}
