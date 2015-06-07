@@ -1,4 +1,5 @@
 Useful git commands:
+
 `git init`
 
 `git add .`
@@ -30,3 +31,5 @@ Useful git commands:
 `git reflog`
 
 `git diff <branch>`
+
+look into git blame
