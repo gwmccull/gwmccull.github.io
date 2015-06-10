@@ -1,3 +1,11 @@
+---
+layout: post
+title: Organize Better Meetups
+---
+
+# Organize Better Meetups
+
+
 I run a couple groups and I've been to an Angular group so I have some general advice.
 
 Probably the most important thing is picking a consistent time and place to hold the meeting.  You want something that is central to a lot of people and is comfortable for the type of meeting you're holding (small groups, lecture, etc).  I hold one of my meetings at a restaurant with a conference room.  They give us a deal on the food and attendees buy drinks which makes up the difference.  
