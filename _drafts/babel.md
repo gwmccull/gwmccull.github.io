@@ -12,8 +12,18 @@ But I always have trouble remembering how to set up the plugin and I haven't tri
 because I wasn't sure if I'd continue using it (versus Traceur).
 
 For my reference (and yours, if you choose), here's how to set up Babel:
-1. Create a Scope
-2. Set JavaScript version
+1. Create a Scope  
+![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-11-webstorm-add-scope.png "Add New Scope")
+
+  a. Name the Scope  
+  ![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-11-webstorm-add-scope-name.png "Name the New Scope")
+
+  b. Add files to the Scope  
+  ![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-11-webstorm-scope-add-files.png "Add file to the Scope")
+
+2. Set JavaScript version  
+![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-11-webstorm-javascript-version.png "Set the JavaScript Version")
+
 3. Set up file watcher  
 ![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-03_babel_preferences.png "WebStorm Preferences")
 
