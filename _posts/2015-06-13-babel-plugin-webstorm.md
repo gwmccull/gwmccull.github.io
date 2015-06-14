@@ -5,13 +5,18 @@ title: WebStorm Babel plugin
 
 # How-To Set Up the Babel Plugin in WebStorm
 
-I've been enjoying programming in ECMAScript 6 recently.  I use the Babel plugin for WebStorm to compile the ES6 code down
+I've been enjoying programming in ECMAScript 6 recently.  I use the Babel plugin for WebStorm to compile ES6 code down
 to ES5 code that can be run in the browser.
+
+Babel has several advantages over Traceur.  Babel and Traceur both support all (or nearly all) of the ECMAScript 6 features
+but Babel already has plans to begin support for proposed ECMAScript 7 features.  When I last looked at Traceur, 
+it required a run time JavaScript library to support some of the ECMAScript 6 features.  Reportedly, Babel also produces 
+more readable code.
 
 But I always have trouble remembering how to set up the plugin and I haven't tried setting up Babel on a permanent basis
 because I wasn't sure if I'd continue using it (versus Traceur).
 
-For my reference (and yours, if you choose), here's how to set up Babel:  
+For my reference (and yours, if you choose), here's how to set up Babel in WebStorm:  
 1. Create a Scope  
 ![alt text](https://raw.githubusercontent.com/gwmccull/gwmccull.github.io/master/images/2015-06-11-webstorm-add-scope.png "Add New Scope")
   a. Name the Scope  
